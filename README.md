@@ -8,8 +8,8 @@ This repository showcases an **HR Analytics Dashboard** created using IBM Cognos
   A pie chart illustrating the gender distribution across the workforce.
 - **Marital Status**:  
   A breakdown of employees by their marital status (Married, Single, or Divorced).
-- **Age Factors**:  
-  Visual representation of employee demographics based on age.
+- **Income factors**:  
+  Spiral chart indicationg most important factors in income.
 - **Key Metrics**:  
   - Total number of employees.  
   - Average monthly income and rate.  
