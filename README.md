@@ -29,6 +29,8 @@ A static preview of the dashboard is included as a PNG file:  ![Dashboard Screen
 ## Files in the Repository
 
 ## Dataset
+[data set](https://github.com/saadqureshi45/CognosDataSet)
+
 The data used in this project comes from the **HR_DATASET.csv**, which includes the following key columns:
 - `Gender`: Employee gender (Male, Female).
 - `MaritalStatus`: Employee marital status.
