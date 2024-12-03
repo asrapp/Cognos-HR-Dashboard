@@ -19,12 +19,11 @@ This repository showcases an **HR Analytics Dashboard** created using IBM Cognos
 - **Monthly Income by Department and Gender**:  
   A bar chart summarizing the total monthly income segmented by department and gender.
 
-  
-## How to Use the Dashboard
-1. The dashboard was created using **IBM Cognos Analytics** and is hosted on a Cognos server.
-2. A static preview of the dashboard is included as a PNG file:  
-   ![Dashboard Screenshot](Hr_cognos_dash.jpg)
-3. To explore the live dashboard (if access is available), [click here](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FHR%2Bcognos%2BDashboard&action=view&mode=dashboard&subView=model0000019388dc2c7e_00000004).
+## Dashboard
+
+To explore the live dashboard (if access is available), [click here](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FHR%2Bcognos%2BDashboard&action=view&mode=dashboard&subView=model0000019388dc2c7e_00000004).
+A static preview of the dashboard is included as a PNG file:  ![Dashboard Screenshot](Hr_cognos_dash.jpg)
+
 
 ## Files in the Repository
 
