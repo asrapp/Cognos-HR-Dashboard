@@ -1,4 +1,4 @@
-# HR Employee Dashboard using IBM Cognos
+# HR Dashboard using IBM Cognos
 
 ## Overview
 This repository showcases an **HR Analytics Dashboard** created using IBM Cognos Analytics. The dashboard provides key insights into workforce metrics, such as gender distribution, marital status, departmental breakdown, and income analysis. This project highlights the power of data visualization to uncover meaningful trends in HR datasets, aiding in data-driven decision-making.
