@@ -23,7 +23,7 @@ This repository showcases an **HR Analytics Dashboard** created using IBM Cognos
 
 To explore the  dashboard [click here](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FHR%2Bcognos%2BDashboard&action=view&mode=dashboard&subView=model0000019388dc2c7e_00000004).
 
-A static preview of the dashboard is included as a PNG file:  ![Dashboard Screenshot](Hr_cognos_dash.jpg)
+A static preview of the dashboard is included as a PNG file:  ![Dashboard Screenshot](dashboard_HR_analysis.jpg)
 
 
 ## Files in the Repository
